@@ -11,4 +11,4 @@ To allow the actual full name such as "British Pounds" to be entered, and to all
 
 ## What I Used
 
-https://realpython.com/beautiful-soup-web-scraper-python/ was the website i used to teach myself about webscraping with python, it is useful, check it out! :)
+https://realpython.com/python-web-scraping-practical-introduction/ was the website i used to teach myself about webscraping with python, it is useful, check it out! :)
