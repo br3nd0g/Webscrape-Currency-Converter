@@ -7,3 +7,8 @@ It accepts two inputs from the user, the currency to convert from and the curren
 ## Next Steps
 
 To allow the actual full name such as "British Pounds" to be entered, and to allow any amount to be entered, such as 1000 swedish krona.
+
+
+## What I Used
+
+https://realpython.com/beautiful-soup-web-scraper-python/ was the website i used to teach myself about webscraping with python, it is useful, check it out! :)
